@@ -106,4 +106,3 @@ Para dúvidas, sugestões ou feedbacks sobre a arquitetura do projeto, sinta-se 
 ---
 
 **Status: Em Desenvolvimento 🚧**
->>>>>>> 72ef81ff4d258bd8837e209f0de6371fec80f8aa
