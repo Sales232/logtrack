@@ -1,6 +1,6 @@
 # ⚙️ LogTrack - Gestão Industrial
 
-Sistema robusto de gestão de manutenção industrial desenvolvido em Java Puro. O projeto foi projetado para monitorar custos operacionais, realizar triagem de chamados urgentes e gerar relatórios dinâmicos de paradas críticas por setores da fábrica.
+Sistema simples de gestão de manutenção industrial desenvolvido em Java Puro. O projeto foi projetado para monitorar custos operacionais, realizar triagem de chamados urgentes e gerar relatórios dinâmicos de paradas críticas por setores da fábrica.
 
 ## 🎯 Funcionalidades:
 * **Relatório de Custos:** Consolidação automática do custo total de todas as manutenções cadastradas na planta.
